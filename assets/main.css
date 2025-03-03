@@ -1173,7 +1173,7 @@ h1.style2, h2.style2, h3.style2, p.style2 {
 	font-family: 'Source Sans Pro', sans-serif;
 	letter-spacing: 0.025rem;
 	width: calc(100% + 0.025rem);
-	font-size: 1.125em;
+	font-size: 1.5em;
 	line-height: 1.875;
 	font-weight: 400;
 }
