@@ -2424,7 +2424,7 @@ form.style1 .date[data-value=""]:before {
 	h1.style2, h2.style2, h3.style2, p.style2 {
 		letter-spacing: 0.021875rem;
 		width: calc(100% + 0.021875rem);
-		font-size: 1.125em;
+		font-size: 1.4em;
 		line-height: 1.875;
 	}
 	
@@ -2592,7 +2592,7 @@ form.style1 .date[data-value=""]:before {
 	}
 	
 	h1.style2, h2.style2, h3.style2, p.style2 {
-		font-size: 1.125em;
+		font-size: 1.4em;
 	}
 	
 	h1.style4, h2.style4, h3.style4, p.style4 {
