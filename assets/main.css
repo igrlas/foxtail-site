@@ -291,8 +291,12 @@ body.is-loading #main {
 }
 
 #main > .inner > section.inactive {
-	opacity: 0.5;
+	opacity: 1 !important;
 	transition: opacity 0.375s ease-in-out;
+
+    opacity: 1 !important;
+    visibility: visible !important;
+    transition: none !important;
 }
 
 body.is-instant #main, body.is-instant #main > .inner > *,body.is-instant #main > .inner > section > *  {
