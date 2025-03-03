@@ -2615,3 +2615,10 @@ form.style1 .date[data-value=""]:before {
 		font-size: 0.875em;
 	}
 }
+
+*,
+*:before,
+*:after {
+  animation: none !important;
+  transition: none !important;
+}
