@@ -685,7 +685,7 @@ body.is-instant:after {
 
 .container.style4 > .wrapper > .inner {
 	--gutters: 8.125rem;
-	--padding-vertical: 3.5rem;
+	--padding-vertical: 3rem;
 	padding: var(--padding-vertical) var(--padding-horizontal);
 }
 
@@ -2179,7 +2179,7 @@ form.style1 .date[data-value=""]:before {
 	
 	.container.style4 > .wrapper > .inner {
 		--gutters: 6rem;
-		--padding-vertical: 3.5rem;
+		--padding-vertical: 3rem;
 	}
 	
 	.container.style4.columns > .wrapper > .inner {
