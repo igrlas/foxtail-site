@@ -45,6 +45,10 @@ body:after {
 	visibility: hidden;
 	width: 100%;
 	z-index: 1;
+
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
 }
 
 body.is-loading:after {
